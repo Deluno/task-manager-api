@@ -2,7 +2,7 @@
     "env": {
         "MYSQL_DATABASE": "task-manager",
         "MYSQL_USER": "root",
-        "MYSQL_PASSWORD": "Bhfk67Y8238w&^W_hjk3",
+        "MYSQL_PASSWORD": "",
         "MYSQL_HOST": "localhost",
         "MYSQL_PORT": 3306,
         "ACCESS_TOKEN_SECRET": "nobodyknowssecretisminesecret",
